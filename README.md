@@ -1,7 +1,7 @@
 # Hi, i'm baek 👋
 **I'm a software developer, and IT-nerd.**
 
-Currently employed by a startup to design, and create web api's, dashboards, and mobile apps.<br>
+Currently employed by a startup to design and create web api's, dashboards, and mobile apps.<br>
 My stack is ASP.NET, C#, and React/React Native and TypeScript.
 
 
