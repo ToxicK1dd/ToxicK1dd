@@ -8,7 +8,7 @@ My stack is ASP.NET, C#, and React/React Native and TypeScript.
 ### 👨‍💻 Projects
 
 
-[![The List](https://github-readme-stats.vercel.app/api/pin/?username=ToxicK1dd&repo=FileShare&title_color=adbac7&text_color=adbac7&icon_color=0F0&bg_color=22272e&border_color=373e47)](https://github.com/ToxicK1dd/TheList)
+[![FileShare](https://github-readme-stats.vercel.app/api/pin/?username=ToxicK1dd&repo=FileShare&title_color=adbac7&text_color=adbac7&icon_color=0F0&bg_color=22272e&border_color=373e47)](https://github.com/ToxicK1dd/FileShare)
 [![The List](https://github-readme-stats.vercel.app/api/pin/?username=ToxicK1dd&repo=TheList&title_color=adbac7&text_color=adbac7&icon_color=0F0&bg_color=22272e&border_color=373e47)](https://github.com/ToxicK1dd/TheList)
 
 ### 🏴‍☠️ Languages & Frameworks
