@@ -21,8 +21,10 @@ I also had good times changing things on my parents devices, and sometimes messi
 However, my formal coding journey began with my first internship at a tech startup.\
 This was is where honed my skills in software development, and learned the ins and outs of startup culture.\
 \
-During this time, I massively contributed to the whole system, writing everything from backend, to frontend, and managing infrastructure.\
-Unfortunately, the journey ended when investors withdrew funding. Despite this setback, my performance led to being chosen by my boss for a new venture.\
+During this time, I massively contributed to the whole system,\
+writing everything from backend, to frontend, and managing infrastructure.\
+Unfortunately, the journey ended when investors withdrew funding.\
+Despite this setback, my performance led to being chosen by my boss for a new venture.\
 \
 This subsequent project was both intense and rewarding, lasting 9 months.\
 Now almost everything became my responsibility, going from a team of 6, to just me and my boss.\
@@ -32,7 +34,8 @@ Following this, the project came to a halt when investors withdrew their support
 Currently, I'm engaged in an exciting new project that shows great promise and resilience.\
 This time with financial independence from investors, a milestone that speaks volumes about the project's potential and our team's capabilities.\
 \
-I'm again the lead of the venture, and deeply involved in all aspects of the project, applying my experience and expertise in building startups.\
+I'm again the lead of the venture, and deeply involved in all aspects of the project,\
+applying my experience and expertise in building startups.\
 The MVP is on track to be completed within a year, marking another significant achievement in my IT-journey.\
 \
 This journey has not only been about technical growth but also about adapting to change,\
