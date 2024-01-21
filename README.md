@@ -23,11 +23,13 @@ This was is where honed my skills in software development, and learned the ins a
 \
 During this time, I massively contributed to the whole system,\
 writing everything from backend, to frontend, and managing infrastructure.\
+\
 Unfortunately, the journey ended when investors withdrew funding.\
 Despite this setback, my performance led to being chosen by my boss for a new venture.\
 \
 This subsequent project was both intense and rewarding, lasting 9 months.\
 Now almost everything became my responsibility, going from a team of 6, to just me and my boss.\
+\
 The project unfortunately ended with the untimely demise of my boss. Which was a significant personal and professional blow.\
 Following this, the project came to a halt when investors withdrew their support three months later, just as i had finished the MVP.\
 \
