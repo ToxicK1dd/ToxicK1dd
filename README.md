@@ -11,7 +11,7 @@ I am currently the lead developer at a startup, where I wear multiple hats and s
 My responsibilities span across various aspects of software development, making every day a new adventure and a learning opportunity.\
 \
 I enjoy applying my skills to contribute to the growth and development of companies.\
-My proficiency lies in web development, where I am skilled in using technologies like ASP.NET/C#, React, TypeScript, HTML, and CSS.
+My proficiency lies in software development, where I am skilled in using technologies like ASP.NET/C#, React, TypeScript, HTML, and CSS.
 
 ## 📖 My history
 
